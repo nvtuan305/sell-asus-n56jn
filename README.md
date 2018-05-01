@@ -17,6 +17,7 @@ Máy đã sử dụng được 3 năm, vì mình dùng máy giữ máy khá kỹ
 - Đồ hoạ: **NVIDIA® GeForce® GT 840M with 2GB DDR3 VRAM + Intel® HD Graphics 4600**
 - Khác: Windows 10 bản quyền, Ổ đĩa DVD/CD, **Loa bass chính hãng đi kèm máy**, Có bàn phím số, đèn bàn phím, 3 x USB 3.0 port, HDMI, Bluetooth 4.0, 5-in-1 media card reader, Headphone, VGA, Webcam...
 
+---
 
 ### Một số hình ảnh
 
