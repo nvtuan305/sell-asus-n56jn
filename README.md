@@ -3,7 +3,9 @@ Bán Latop **Asus N56JN-CN107D**
 ---
 
 ### Mô tả chung về máy
-Máy đã sử dụng được 3 năm, vì mình dùng máy giữ máy khá kỹ nên vẫn còn `mới 99%`. Máy zin chính hãng, chưa bung máy lần nào (vẫn còn tem bảo hành chính hãng dán trên thân máy). Máy dùng để chạy Photoshop, AI, chơi game, DEV đều OK, ngoài ra máy thuộc dòng giải trí nên được trang bị bộ loa cho âm thanh rất to và hay (có kèm loa tăng bass).
+- Máy mình dùng khá kỹ nên vẫn còn mới 99%. Máy zin chính hãng, chưa bung máy lần nào (vẫn còn tem bảo hành chính hãng dán trên thân máy).
+- Máy có cấu hình i5, 8GB RAM, 500GB HDD, được trang bị màn hình màn hình Full HD chống chói, có đèn bàn phím, loa âm thanh lớn (xem thêm thông tin cấu hình bên dưới).
+- Máy dùng để chạy Photoshop, AI, chơi game, giải trí, lập trình đều OK, ngoài ra máy thuộc dòng giải trí nên được trang bị bộ loa cho âm thanh rất to và hay (có kèm loa tăng bass).
 
 ---
 
